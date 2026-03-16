@@ -1,0 +1,2 @@
+date,patient_id,breathing_exercise_sessions,walking_minutes,cough_training_sessions,sputum_clearance_done,dyspnea_score,fatigue_score,spo2_rest,heart_rate_rest,notes
+2026-03-17,P001,3,15,2,yes,3,4,97,82,baseline example entry
